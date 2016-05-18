@@ -7,7 +7,7 @@
 
 ## Learning Objectives - The student should be able to..
 
-* Explain that *Interface Builder* allows developers (themselves!) to create interfaces for applications using a graphical user interface (GUI). 
+* Explain that *Interface Builder* allows developers to create interfaces for applications using a graphical user interface (GUI). 
 * Navigate to *Interface Builder* from Xcode.
 * Explain that a `.storyboard` file is single file in Xcode that shows the flow of the various screens that will make an app. 
 * Can navigate to the Development Info section after selecting their target in the Project navigator and recognize that the Main Interface selection is the `.storyboard` file which is the entry point of their app. 

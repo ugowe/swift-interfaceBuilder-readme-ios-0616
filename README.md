@@ -11,6 +11,8 @@
 * Navigate to *Interface Builder* from Xcode.
 * Explain that a `.storyboard` file is single file in Xcode that shows the flow of the various screens that will make an app. 
 * Can navigate to the Development Info section after selecting their target in the Project navigator and recognize that the Main Interface selection is the `.storyboard` file which is the entry point of their app. 
+* Can navigate to the Object Library.
+* Can drag a View Controller onto the canvas and understands that this is referred to as a scene.
 
 
 ## What the student can do at this point 
@@ -21,6 +23,8 @@
 ## Outline / Notes
 
 *  Take the student through what it is I outlined above in the Learning Objectives with screenshots and explanations.
-* The next reading will go into detail of how to drag a `UIViewController` over to the empty canvas, so it's not required that you explain this or even show that to the student in this readme unless you think it would be silly not to show them this at this time (I'm fine either way).
+* The next reading will have them actually do these things we show them in this reading. The next reading will show them how to drag objects into their View Controller (or scene).
+* The student should at a high level understand how this `.storyboard` file will manage various scenes when they make app similiar to a director creating a movie.
+* If you think this reading is becoming too large, feel free to break it up into two readings.
 
 <a href='https://learn.co/lessons/InterfaceBuilder' data-visibility='hidden'>View this lesson on Learn.co</a>

@@ -28,7 +28,7 @@ In this lesson, you'll get a quick introductory tour to Interface Builder. Start
 
 ![Xcode](.images/xcode01.png)
 
-Take a look at the file listing on the left-hand side of the window. You should see two `.storyboard' files: `Main.storyboard` and `LaunchScreen.storyboard`.
+Take a look at the file listing on the left-hand side of the window. You should see two `.storyboard` files: `Main.storyboard` and `LaunchScreen.storyboard`.
 
 ![File listing](.images/xcode02.png)
 

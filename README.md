@@ -54,6 +54,8 @@ You should also notice that on the left hand side of the Interface Builder windo
 
 Have you ever seen a storyboard for a movie? It consists of drawings for key scenes of a movie, and shows how the story flows and what the movie will look like at each scene. iOS development uses a similar model to lay out graphical interfaces. An iOS app consists of one or more _screens_ which display text, images, icons—anything you want to show to the user. You move between these screens using controls like buttons.
 
+Think about the iPhone's Contacts app. When you launch the app, you're presented with a list of family and friends. Tapping on an item in the list slides to a new screen that shows all the contact info for that person. The list of contacts is the initial view of the application, and the contact details are a separate view.
+
 You store the layout of these different screens in the storyboard file. In keeping with the movie analogy, each screen is referred to as a _scene_. Generally, each scene has its own view controller. These screens are connected to each other in different ways, allowing you to easily move between them. The overall design and interaction of these screens is visible in the storyboard file, which allows you to have a high-level overview of the flow of your application.
 
 No better way to understand this than to see it in action!

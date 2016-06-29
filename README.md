@@ -8,15 +8,10 @@
 
 * Explain that *Interface Builder* allows developers to create interfaces for applications using a graphical user interface (GUI). 
 * Navigate to *Interface Builder* from Xcode.
-* Explain that a `.storyboard` file is single file in Xcode that shows the flow of the various screens that will make an app. 
-* Can navigate to the Development Info section after selecting their target in the Project navigator and recognize that the Main Interface selection is the `.storyboard` file which is the entry point of their app. 
-* Can navigate to the Object Library.
-* Can drag a View Controller onto the canvas and understands that this is referred to as a scene.
-
-## What the student can do at this point 
-
-* Has a general overview of Xcode and is able to create a new project.
-* Knows where to locate the testing file within Xcode.
+* Explain that a `.storyboard` file is single file in Xcode that shows the flow of the various screens that will make an app.
+* Navigate to the Development Info section after selecting their target in the Project navigator
+* Navigate to the Object Library.
+* Drag a View Controller onto the canvas and understands that this is referred to as a scene.
 
 ## Interface Builder
 

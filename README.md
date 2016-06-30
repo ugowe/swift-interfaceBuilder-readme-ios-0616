@@ -1,10 +1,10 @@
 # Interface Builder & Storyboard
 
-![Drawing](http://www.lyricsmode.com/i/bpictures/18096.jpg)
+![Drawing](http://i.imgur.com/H9U1ObS.jpg?1)
 
-> The flower that blooms in adversity is the rarest and most beautiful of all.
+> The flower that blooms in adversity is the rarest and most beautiful of all. -[Mulan](https://en.wikipedia.org/wiki/Mulan_(1998_film))
 
-## Learning Objectives - The student should be able to...
+## Learning Objectives
 
 * Explain that *Interface Builder* allows developers to create interfaces for applications using a graphical user interface (GUI). 
 * Navigate to *Interface Builder* from Xcode.

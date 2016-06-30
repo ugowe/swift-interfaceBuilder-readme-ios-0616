@@ -21,11 +21,11 @@ These two components, the editor and Interface Builder, are both parts of _Xcode
 
 In this lesson, you'll get a quick introductory tour to Interface Builder. Start that tour by creating an Xcode project for a new iOS program. For this lesson, you can just use Xcode's Single View Application template. After creating this project, you'll be greeted with Xcode's standard editing window:
 
-![Xcode](.images/xcode01.png)
+![Xcode](http://i.imgur.com/Jw4tjc7.png)
 
 Take a look at the file listing on the left-hand side of the window. You should see two `.storyboard` files: `Main.storyboard` and `LaunchScreen.storyboard`.
 
-![File listing](.images/xcode02.png)
+![File listing](http://i.imgur.com/PHSbcn0.png)
 
 ## Storyboards
 
@@ -35,7 +35,7 @@ Storyboards (`.storyboard` files) are where you lay out the graphical interface 
 
 Open up `Main.storyboard` by clicking once on it in the file listing. You'll see it open in Interface Builder. Right now, it's pretty plain—just a large white box!
 
-![`Main.storyboard`](.images/xcode03.png)
+![`Main.storyboard`](http://i.imgur.com/wdkDbp5.png)
 
 Right now, there is one _object_ on the storyboard: A blank white box called **View Controller**. A view controller is an object that is responsible for drawing the graphical interface, as well as managing interactions with it (touches, swipes, pokes, and so forth). You will be learning _a lot_ more about view controllers in the upcoming lessons, but for now, just know that it is responsible for managing how the interface _looks_.
 
@@ -43,7 +43,7 @@ Notice that on the left side of the view controller's rectangle is a grey arrow 
 
 You should also notice that on the left hand side of the Interface Builder window, next to the file listing, is a list of items. This area is the _object listing_. The topmost item is labeled **View Controller Scene**. Click once on this item. You should notice that the big blank view controller rectangle in the editing window is highlighting. **View Controller Scene** in the object listing corresponds to that view controller rectangle in the editing portion.
 
-![View Controller](.images/xcode04.png)
+![View Controller](http://i.imgur.com/DEBakA0.png)
 
 ### Scenes
 
@@ -57,19 +57,19 @@ No better way to understand this than to see it in action!
 
 Let's add another scene to the storyboard. Remember that scenes have a view controller associated with them, so to add a scene, you add a new view controller object to the storyboard. And you add a new view controller object by dragging it from the _object library_ onto your storyboard. But let's not get ahead of ourselves! First, make sure that you can see the right-hand sidebar of the Interface Builder. If you don't, click the button in the top right corner of Xcode's window:
 
-![Show the sidebar](.images/xcode05.png)
+![Show the sidebar](http://i.imgur.com/ttSqSoe.png)
 
 You should see this sidebar along the right-hand side of your screen:
 
-![Sidebar](.images/xcode06.png)
+![Sidebar](http://i.imgur.com/xSR5vum.png)
 
 The _object library_ is the portion at the bottom of the sidebar, with a bunch of yellow blobs and some text:
 
-![Object Library](.images/xcode07.png)
+![Object Library](http://i.imgur.com/C9FjCbE.png)
 
 Look! There's already an icon marked **View Controller**, so you don't even have to waste time searching for it. (You use view controllers _a lot_ in iOS development, so Xcode makes sure they're readily available.) You can add a new view controller—or _scene_—to your storyboard by clicking on the yellow **View Controller** icon and _dragging_ it onto your storyboard. Place it next to (not on top of!) the existing view controller.
 
-![Adding a scene](.images/xcode08.png)
+![Adding a scene](http://i.imgur.com/p88wqgC.png)
 
 Congratulations! You've added a new scene to your storyboard!
 
